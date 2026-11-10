@@ -24,8 +24,8 @@ Requires Windows x64.
 
 | [Releases](https://github.com/as9p/openmacro/releases) | Size    | Needs .NET?                                                                       |
 | ------------------------------------------------------- | ------- | --------------------------------------------------------------------------------- |
-| `openmacro-v0.3.3-win-x64.exe`                          | ~72 MB  | No, the runtime is inside                                                         |
-| `openmacro-v0.3.3-win-x64-dotnet.zip`                   | ~510 KB | Yes, [.NET 10 Desktop Runtime](https://dotnet.microsoft.com/en-us/download)       |
+| `openmacro-v0.3.4-win-x64.exe`                          | ~72 MB  | No, the runtime is inside                                                         |
+| `openmacro-v0.3.4-win-x64-dotnet.zip`                   | ~510 KB | Yes, [.NET 10 Desktop Runtime](https://dotnet.microsoft.com/en-us/download)       |
 
 Take the `.exe` unless you already have .NET installed. Windows may warn on first run because the
 exe is unsigned: choose "More info", then "Run anyway".
