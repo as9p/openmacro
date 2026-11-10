@@ -37,7 +37,7 @@ public enum UpdateCheckOutcome
 /// </summary>
 public sealed class UpdateService : IDisposable
 {
-    private const string LatestUrl = "https://api.github.com/repos/as9pa/openmacro/releases/latest";
+    private const string LatestUrl = "https://api.github.com/repos/as9p/openmacro/releases/latest";
     private const string SumsAssetName = "SHA256SUMS";
 
     /// <summary>Passed to the exe started by <see cref="ApplyAndRestart"/>:

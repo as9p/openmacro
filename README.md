@@ -4,7 +4,7 @@
 
 Light, highly customizable macro software for Windows with true 1 ms delays.
 
-**[Download](https://github.com/as9pa/openmacro/releases/latest)** (Windows x64)
+**[Download](https://github.com/as9p/openmacro/releases/latest)** (Windows x64)
 
 ## What it does
 
@@ -22,7 +22,7 @@ Light, highly customizable macro software for Windows with true 1 ms delays.
 
 Requires Windows x64.
 
-| [Releases](https://github.com/as9pa/openmacro/releases) | Size    | Needs .NET?                                                                       |
+| [Releases](https://github.com/as9p/openmacro/releases) | Size    | Needs .NET?                                                                       |
 | ------------------------------------------------------- | ------- | --------------------------------------------------------------------------------- |
 | `openmacro-v0.3.3-win-x64.exe`                          | ~72 MB  | No, the runtime is inside                                                         |
 | `openmacro-v0.3.3-win-x64-dotnet.zip`                   | ~510 KB | Yes, [.NET 10 Desktop Runtime](https://dotnet.microsoft.com/en-us/download)       |
